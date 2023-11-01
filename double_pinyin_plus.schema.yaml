@@ -81,6 +81,7 @@ zrm2000:
   dictionary: zrm2000
   enable_sentence: false
   max_phrase_length: 8
+  initial_quality: 1
 
 emoji_suggestion:
   opencc_config: emoji.json
